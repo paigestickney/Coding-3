@@ -50,7 +50,7 @@ public class HumanGroup {
 				this.YearsInTeaching == Human.YearToBeDisciple;
 	}
 	
-	public boolean IsDea() {
+	public boolean IsDead() {
 		return this.Age >= Human.MaxAge;
 	}
 
